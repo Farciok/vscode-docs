@@ -8,6 +8,9 @@
     },
     "markdown.validate.enabled": true,
     "markdown.validate.ignoredLinks": [
-        "/Download"
+        "/Download",
+        "/updates",
+        "/docs/supporting/faq.md#how-do-i-opt-out-of-vs-code-autoupdates",
+        "/insiders"
     ]
 }
